@@ -1,0 +1,28 @@
+{
+  "name": "JosTermite",
+  "displayName": "Welcome to the Terminarium",
+  "expo": {
+    "name": "JosTermite",
+    "slug": "jos_termite",
+    "privacy": "unlisted",
+    "sdkVersion": "35.0.0",
+    "ios": {
+      "bundleIdentifier": "com.lami.jostermite",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.lami.jostermite",
+      "permissions": [
+        ""
+      ]
+    },
+    "version": "1.0.0",
+    "entryPoint": "node_modules/expo/AppEntry.js",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "description": ""
+  }
+}

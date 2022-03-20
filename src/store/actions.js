@@ -1,0 +1,11 @@
+//here are the list of actions.
+export const SAVE_USER_DATA = "SAVE_USER_DATA";
+export const REMOVE_USER_DATA = "REMOVE_USER_DATA";
+export const SAVE_LIST_OF_ONLINE_USERS = "SAVE_LIST_OF_ONLINE_USERS";
+export const SAVE_WHICH_SCREEN_WE_ARE_CURRENTLY_IN = "SAVE_WHICH_SCREEN_WE_ARE_CURRENTLY_IN";
+
+
+
+
+
+

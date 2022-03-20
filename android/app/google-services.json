@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "179546426022",
+    "firebase_url": "https://jos-termite.firebaseio.com",
+    "project_id": "jos-termite",
+    "storage_bucket": "jos-termite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179546426022:android:73ce8a10577e274e5dc267",
+        "android_client_info": {
+          "package_name": "com.kabir.jos_termite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179546426022-a8trupg0bck2ak51ahtg7jedg9j3u8dd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqHV7J03dEN_sU0l-LvKvEyJB51QKGcJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179546426022-a8trupg0bck2ak51ahtg7jedg9j3u8dd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
